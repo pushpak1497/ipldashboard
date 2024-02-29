@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.latest-container {
+  display: flex;
+  justify-content: space-between;
+}
+.opponent-logo {
+  height: 120px;
+  width: 120px;
+}
